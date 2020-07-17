@@ -11,7 +11,9 @@
 <br />
 <p>
 <strong>
-I am an engineering student in my 2nd year of engineering who is looking for opportunities to work and collaborate on projects involving Web Development. 
+<nobr>
+I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
+</nobr>
 </strong>
 </p>
 <br />
