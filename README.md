@@ -2,11 +2,6 @@
 
 ### Hello there 👋 My name is GSS Akash. 
 
-<!--
-**gssakash/gssakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 I am an engineering student in my 2nd year of engineering who is looking for opportunities to work and collaborate on projects involving Web Development.
 
 - 🔭 I’m currently working on some side projects and competitive programming.
@@ -17,4 +12,3 @@ I am an engineering student in my 2nd year of engineering who is looking for opp
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
 
--->
