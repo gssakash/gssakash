@@ -1,4 +1,4 @@
-<p style="text-align:center>
+<p align="center">
 <h1><strong> Hello there 👋 My name is GSS Akash. </strong></h1> 
 <br />
 
