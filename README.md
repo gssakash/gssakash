@@ -1,4 +1,4 @@
-<a href='https://postimg.cc/PLzQ76Sj' target='_blank'><img src='https://i.postimg.cc/PLzQ76Sj/Home-Brew.png' width='100%' border='0' alt='Home-Brew'/></a>
+<img src='https://i.postimg.cc/PLzQ76Sj/Home-Brew.png' width='100%' border='0' alt='Home-Brew'/>
 
 <strong> Hello there 👋 My name is GSS Akash. </strong>
 I am an engineering student in my 2nd year of engineering who is looking for opportunities to work and collaborate on projects involving Web Development.
