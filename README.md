@@ -1,6 +1,5 @@
+<img src="[![Home-Brew.png](https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj)" width="100%">
 <strong> Hello there 👋 My name is GSS Akash. </strong>
-
-<img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="100%">
 I am an engineering student in my 2nd year of engineering who is looking for opportunities to work and collaborate on projects involving Web Development.
 
 - 🔭 I’m currently working on some side projects and competitive programming.
