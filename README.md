@@ -8,6 +8,6 @@ I am an engineering student in my 2nd year of engineering who is looking for opp
 - ⚔️ I'm currently working on React.js 💙 , Node.js ☘️ and Firebase 🧡 . 
 - 🤝 I’m looking to collaborate on projects that mainly involve Web Development.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash)
 
 
