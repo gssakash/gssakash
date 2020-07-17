@@ -1,6 +1,6 @@
 <strong> Hello there 👋 My name is GSS Akash. </strong>
 
-<img src="" />
+<img src="![Home Brew](https://user-images.githubusercontent.com/52027687/87811284-0b576c00-c87c-11ea-8ba8-a2ba9f1da48e.png)" />
 
 I am an engineering student in my 2nd year of engineering who is looking for opportunities to work and collaborate on projects involving Web Development.
 
