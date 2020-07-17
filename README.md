@@ -1,5 +1,4 @@
 <img src="file:///C:/Users/gssak/Downloads/Home%20Brew.png">
-
 ### Hello there 👋 My name is GSS Akash. 
 
 I am an engineering student in my 2nd year of engineering who is looking for opportunities to work and collaborate on projects involving Web Development.
