@@ -4,7 +4,7 @@
 
   [![Home-Brew.png](https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj) 
   </p>
-<br /><br />
+<br />
 
 I am an engineering student in my 2nd year of engineering who is looking for opportunities to work and collaborate on projects involving Web Development.
 
