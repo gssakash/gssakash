@@ -6,6 +6,7 @@
   </p>
 </div>
 <p>
+  <br />
 <strong>
 <nobr>
   <h2>
