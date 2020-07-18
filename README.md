@@ -12,7 +12,9 @@
 <p>
 <strong>
 <nobr>
+  <h2>
 I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
+  </h2>
 </nobr>
 </strong>
 </p>
