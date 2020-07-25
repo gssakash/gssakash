@@ -2,8 +2,7 @@
 <h1><strong> Hello there 👋 My name is GSS Akash. </strong></h1> 
 <br />
   <!-- [![Home-Brew.png](https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj){:width="100%"} -->
-<!-- <img src="https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj" alt="drawing" style="width:200px;"/>  -->
- <img src="https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj" alt="drawing" style="width:800px;"/>
+ <img src="https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj" alt="drawing" style="width:200px;"/>  
   </p>
 </div>
 <p>
