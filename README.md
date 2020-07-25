@@ -25,7 +25,8 @@ I am an engineering student in my 2nd year of engineering who is looking for opp
 <br />
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash)
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash) -->
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
  
