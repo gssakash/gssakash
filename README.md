@@ -10,7 +10,7 @@
 <strong>
 <nobr>
   <h2>
-I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
+I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development and App Development. 
   </h2>
 </nobr>
 </strong>
