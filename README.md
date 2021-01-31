@@ -20,7 +20,7 @@ I am an engineering student in my 2nd year of engineering who is looking for opp
 - 🔭 I am currently working on some side projects and competitive programming.
 - 🌱 I am currently learning Flutter and Improving my existing Knowledge. 🔸 . 
 - ⚔️ I am currently working on React.js 💙 , Node.js ☘️ and Flutter 🤍 . 
-- 🤝 I am looking to collaborate on projects that involve Web Development.
+- 🤝 I am looking to collaborate on projects that involve Web Development and App Development.
 <br />
 
 
