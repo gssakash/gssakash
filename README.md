@@ -17,7 +17,7 @@ I am an engineering student in my 2nd year of engineering who is looking for opp
 </p>
 <br />
 
-- 🤝 I am currently looking for Internships as a Flutter App Developer or a Full Stack (MERN) Web Developer.
+- 🤝 I am currently looking for Internships as a __Flutter App Developer__ or a __Full Stack (MERN) Web Developer__.
 - 🔭 I am currently working on some side projects and competitive programming.
 - 🌱 I am currently learning Flutter and Improving my existing Knowledge. 🔸 . 
 - ⚔️ I am currently working on React.js 💙 , Node.js ☘️ and Flutter 🤍 . 
