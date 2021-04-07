@@ -1,5 +1,5 @@
 <div align="center">
-<h1><strong> Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"> My name is GSS Akash. </strong></h1> 
+<h1><strong> Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"> I'm GSS Akash </strong></h1> 
 <br />
   <!-- [![Home-Brew.png](https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj){:width="100%"} -->
  <img src="https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj" alt="drawing" style="width:200px;"/>  
