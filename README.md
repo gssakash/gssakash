@@ -5,7 +5,7 @@
  <img src="https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj" alt="drawing" style="width:200px;"/>  
   </p>
 </div>
-<p>
+<!--
   <br />
 <strong>
 <nobr>
@@ -16,7 +16,8 @@ I am an engineering student in my 2nd year of engineering who is looking for opp
 </strong>
 </p>
 <br />
-
+-->
+- 🙂 I am currently a Sophomore who is pursuing a Bachelor’s degree in Computer Science from SRM Institute Of Science and Technology, Chennai, India.
 - 🤝 I am currently looking for Internships as a __Flutter App Developer__ or a __Full Stack (MERN) Web Developer__.
 - 🔭 I am currently working on some side projects and competitive programming.
 - 🌱 I am currently learning Flutter and Improving my existing Knowledge. 
