@@ -15,8 +15,8 @@
 </nobr>
 </strong>
 </p>
-<br />
 <hr>
+<br />
 - 🤝 I am currently looking for Internships as a __Full Stack (MERN) Web Developer__.
 - 🔭 I am currently working on some side projects and competitive programming.
 - 🌱 I am currently learning Machine Learning and Improving my existing Knowledge in the field of Computer Science. 
