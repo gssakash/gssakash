@@ -9,18 +9,18 @@
   <br />
 <strong>
 <nobr>
-  <h2>
-I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development and App Development. 
-  </h2>
+  <h3>
+      I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
+  </h3>
 </nobr>
 </strong>
 </p>
 <br />
 
-- 🤝 I am currently looking for Internships as a __Flutter App Developer__ or a __Full Stack (MERN) Web Developer__.
+- 🤝 I am currently looking for Internships as a __Full Stack (MERN) Web Developer__.
 - 🔭 I am currently working on some side projects and competitive programming.
-- 🌱 I am currently learning Flutter and Improving my existing Knowledge. 
-- ⚔️ I am currently working on React.js 💙 , Node.js ☘️ and Flutter 🤍 . 
+- 🌱 I am currently learning Machine Learning and Improving my existing Knowledge in the field of Computer Science. 
+- ⚔️ I am currently working on React.js 💙 , Node.js ☘️ and ML 🌐. 
 <br />
 
 
