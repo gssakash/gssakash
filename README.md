@@ -9,8 +9,11 @@
   <br />
 <strong>
 <nobr>
-  <h3>
+<!--   <h3>
       I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
+  </h3> -->
+  <h3>
+    I am a Junior Engineering Student who is extremely passionate about everything related to Tech and Programming.
   </h3>
 </nobr>
 </strong>
