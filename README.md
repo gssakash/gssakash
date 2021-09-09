@@ -29,9 +29,13 @@
 
 
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash) -->
+
+<!-- <div align="center"> -->
+<div>
   <div style="display: flex; align-items: flex-start;">
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gssakash&langs_count=6)
+    <img src="https://github-readme-stats.vercel.app/api?username=gssakash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssakash&langs_count=6" />
+  </div>
 </div>
 
  
