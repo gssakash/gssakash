@@ -28,7 +28,7 @@
 <br />
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash&theme=dark&show_icons=true)
 
 
  
