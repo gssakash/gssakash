@@ -1,5 +1,5 @@
 <div align="center">
-<h1><strong> Hello there <img src="https://lh3.googleusercontent.com/proxy/YOPLseppvH96TmgY5oZh7oiCbqzrKa4k73PWDPKeUr3tGkUSSrl7zHJI2jpHvIW1N4Ycn3oexe09I1UQQBaEgwerq2ebNdy_RRRm2ZuDJ7W2" width="75px" style="max-width:100%;" > I'm GSS Akash </strong></h1> 
+<h1><strong> Hello there <img src="https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea_w200.webp" width="75px" > I'm GSS Akash </strong></h1> 
 <br />
 <!--   [![Home-Brew.png](https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj){:width="100%"} -->
  <img src="https://i.ibb.co/zNffcFb/Home-Brew-1.png" alt="drawing"/>  
