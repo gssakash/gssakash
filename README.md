@@ -2,18 +2,17 @@
 <h1><strong> Hello there <img src="https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea_w200.webp" width="75px" > I'm GSS Akash </strong></h1> 
 <br />
 <!--   [![Home-Brew.png](https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj){:width="100%"} -->
- <img src="https://i.ibb.co/zNffcFb/Home-Brew-1.png" alt="drawing"/>  
-  </p>
+
 </div>
 
-  <br />
+  
 <strong>
-<nobr>
+
 <!--   <h3>
       I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
   </h3> -->
   <h3>
-    I am a Junior Engineering Student who is extremely passionate about everything related to Tech and Programming.
+    I am a Senior Engineering Student in his final semester, who is extremely passionate about everything related to Tech and Programming.
   </h3>
 </nobr>
 </strong>
