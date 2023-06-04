@@ -12,7 +12,7 @@
       I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
   </h3> -->
   <h3>
-    I am a CS student in his final semester, who is extremely passionate about everything related to Tech and Programming.
+    I am a CS student Graduate who is extremely passionate about everything related to Tech and Programming.
   </h3>
 </nobr>
 </strong>
