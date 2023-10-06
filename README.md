@@ -1,33 +1,39 @@
 <div align="center">
-<h1><strong> Hello there <img src="https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea_w200.webp" width="75px" > I'm GSS Akash </strong></h1> 
-<br />
-<!--   [![Home-Brew.png](https://i.postimg.cc/nLNSCg7C/Home-Brew.png)](https://postimg.cc/PLzQ76Sj){:width="100%"} -->
+
+# Hello there <img src="https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea_w200.webp" width="75px" > I'm GSS Akash
+
+[![Linkedin Badge](https://img.shields.io/badge/-gssakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gssakash/)](https://www.linkedin.com/in/gssakash/) [![Gmail Badge](https://img.shields.io/badge/-gssakash@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gssakash@gmail.com)](mailto:gssakash@gmail.com)
 
 </div>
 
-  
-<strong>
+<div align="left">
 
-<!--   <h3>
-      I am an engineering student in my 2nd year of engineering who is looking for opportunities to work on projects involving Web Development. 
-  </h3> -->
-  <h3>
-    I am a CS student Graduate who is extremely passionate about everything related to Tech and Programming.
-  </h3>
-</nobr>
-</strong>
-</p>
-<br />
+I am a CS student who is passionate about building full-stack web applications and staying up-to-date with the latest technologies. I have experience working with React, Node.js, and other JavaScript frameworks.
 
-<!-- - 🤝 I am currently looking for Internships as a __Full Stack (MERN) Web Developer__. -->
-- 🔭 I am currently working on some side projects and competitive programming.
-- 🌱 I am currently working on BlockChain and Improving my existing Knowledge of the field of Computer Science. 
-- ⚔️ I am currently working on React.js 💙 , Node.js ☘️ and Blockchain ₿. 
+</div>
 
-<br />
+- 🕘 Busy Contributing to Open Source
 
+## Skills
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gssakash&theme=dark&show_icons=true)
+**Languages:** JavaScript (ES6+), TypeScript, Python, C++
 
+**Frontend:** React, Redux, HTML/CSS, Bootstrap  
 
- 
+**Backend:** Node.js, Express, MongoDB, PostgreSQL
+
+**Tools:** OpenAI (Chat-GPT), Git, Docker, Visual Studio Code
+
+## Articles  
+
+- [Preview Localhost Using Tunnels](https://gssakash.hashnode.dev/preview-localhost-using-tunnels)
+- [5 Tips on How You Can Google Like a Pro](https://gssakash.hashnode.dev/5-tips-on-how-you-can-google-like-a-pro) 
+- [Deploy Your React App in Less Than 2 Minutes](https://gssakash.hashnode.dev/deploy-your-react-app-in-less-than-2-minutes)
+
+<div align="center">
+
+## Github Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=gssakash&theme=radical&show_icons=true" alt="gssakash" width="50%"/>
+
+</div>
