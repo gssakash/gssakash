@@ -30,7 +30,7 @@ I am a CS student who is passionate about building full-stack web applications a
 - [5 Tips on How You Can Google Like a Pro](https://gssakash.hashnode.dev/5-tips-on-how-you-can-google-like-a-pro) 
 - [Deploy Your React App in Less Than 2 Minutes](https://gssakash.hashnode.dev/deploy-your-react-app-in-less-than-2-minutes)
 - [Deconstructing the fast rate of content served by GIPHY](https://gssakash.hashnode.dev/deconstructing-the-fast-rate-of-content-served-by-giphy)
-- IPython Magic Commands (https://gssakash.hashnode.dev/ipython-magic-commands)
+- [IPython Magic Commands](https://gssakash.hashnode.dev/ipython-magic-commands)
 
 <div align="center">
 
