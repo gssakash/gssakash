@@ -32,6 +32,7 @@ I am a CS student who is passionate about building full-stack web applications a
 - [Deconstructing the fast rate of content served by GIPHY](https://gssakash.hashnode.dev/deconstructing-the-fast-rate-of-content-served-by-giphy)
 - [IPython Magic Commands](https://gssakash.hashnode.dev/ipython-magic-commands)
 - [BitTorrent - A Protocol To Distribute Large Files In Large Networks](https://gssakash.hashnode.dev/bittorrent-a-protocol-to-distribute-large-files-in-large-networks)
+- [Designing an Online Code Editor (IDE)](https://gssakash.hashnode.dev/designing-an-online-code-editor-ide)
 
 <div align="center">
 
