@@ -22,7 +22,7 @@ I am a CS student who is passionate about building full-stack web applications a
 
 **Backend:** Node.js, Express, MongoDB, PostgreSQL
 
-**Tools:** OpenAI (Chat-GPT), Git, Docker, Visual Studio Code
+**Tools:** OpenAI (Chat-GPT), Git, Visual Studio Code
 
 ## Articles  
 
