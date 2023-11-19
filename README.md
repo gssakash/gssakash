@@ -20,7 +20,7 @@ I am a CS student who is passionate about building full-stack web applications a
 
 **Frontend:** React, Redux, HTML/CSS, Bootstrap  
 
-**Backend:** Node.js, Express, MongoDB, PostgreSQL
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, ChromaDB (Vector Search DB)
 
 **Tools:** OpenAI (Chat-GPT), Git, Visual Studio Code
 
