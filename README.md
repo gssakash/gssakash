@@ -8,7 +8,9 @@
 
 <div align="left">
 
-I am a full-stack web developer with expertise in React, Node.js, and Python. My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and using vector databases like Chroma DB to augment their responses along with a lot of prompt engineering for platform specific requirements with the help of Flask Python.
+I am a software engineer with expertise in SQL, Python, Flask and Node.js. 
+
+My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and using vector databases like Chroma DB to augment and improve their responses along with a lot of prompt engineering for platform specific requirements with the help of Flask Python.
 
 </div>
 
