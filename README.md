@@ -8,7 +8,7 @@
 
 <div align="left">
 
-I am a CS student who is passionate about building full-stack web applications and staying up-to-date with the latest technologies. I have experience working with React, Node.js, and other JavaScript frameworks.
+I am a full-stack web developer with expertise in React, Node.js, and Python. My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and using vector databases like Chroma DB to augment their responses along with a lot of prompt engineering for platform specific requirements.
 
 </div>
 
