@@ -36,6 +36,7 @@ My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and u
 - [BitTorrent - A Protocol To Distribute Large Files In Large Networks](https://gssakash.hashnode.dev/bittorrent-a-protocol-to-distribute-large-files-in-large-networks)
 - [Designing an Online Code Editor (IDE)](https://gssakash.hashnode.dev/designing-an-online-code-editor-ide)
 - [GANs Explained](https://gssakash.hashnode.dev/generative-adversarial-networks-gans-explained)
+- [Voronoi Diagrams in a 2D and 3D Space](https://gssakash.hashnode.dev/voronoi-diagrams-in-a-2d-and-3d-space)
 
 <div align="center">
 
