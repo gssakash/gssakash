@@ -29,7 +29,7 @@ My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and u
 ## Articles  
 
 - [Preview Localhost Using Tunnels](https://gssakash.hashnode.dev/preview-localhost-using-tunnels)
-- [5 Tips on How You Can Google Like a Pro](https://gssakash.hashnode.dev/5-tips-on-how-you-can-google-like-a-pro) 
+- [The Developer's Guide to Open Source Licensing: Here's Everything You Need to Know](https://gssakash.hashnode.dev/the-developers-guide-to-open-source-licensing-heres-everything-you-need-to-know)
 - [Deploy Your React App in Less Than 2 Minutes](https://gssakash.hashnode.dev/deploy-your-react-app-in-less-than-2-minutes)
 - [Deconstructing the fast rate of content served by GIPHY](https://gssakash.hashnode.dev/deconstructing-the-fast-rate-of-content-served-by-giphy)
 - [IPython Magic Commands](https://gssakash.hashnode.dev/ipython-magic-commands)
@@ -37,6 +37,7 @@ My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and u
 - [Designing an Online Code Editor (IDE)](https://gssakash.hashnode.dev/designing-an-online-code-editor-ide)
 - [GANs Explained](https://gssakash.hashnode.dev/generative-adversarial-networks-gans-explained)
 - [Voronoi Diagrams in a 2D and 3D Space](https://gssakash.hashnode.dev/voronoi-diagrams-in-a-2d-and-3d-space)
+  **And More!!**
 
 <div align="center">
 
