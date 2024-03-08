@@ -28,16 +28,11 @@ My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and u
 
 ## Articles  
 
-- [Preview Localhost Using Tunnels](https://gssakash.hashnode.dev/preview-localhost-using-tunnels)
-- [The Developer's Guide to Open Source Licensing: Here's Everything You Need to Know](https://gssakash.hashnode.dev/the-developers-guide-to-open-source-licensing-heres-everything-you-need-to-know)
-- [Deploy Your React App in Less Than 2 Minutes](https://gssakash.hashnode.dev/deploy-your-react-app-in-less-than-2-minutes)
-- [Deconstructing the fast rate of content served by GIPHY](https://gssakash.hashnode.dev/deconstructing-the-fast-rate-of-content-served-by-giphy)
-- [IPython Magic Commands](https://gssakash.hashnode.dev/ipython-magic-commands)
-- [BitTorrent - A Protocol To Distribute Large Files In Large Networks](https://gssakash.hashnode.dev/bittorrent-a-protocol-to-distribute-large-files-in-large-networks)
-- [Designing an Online Code Editor (IDE)](https://gssakash.hashnode.dev/designing-an-online-code-editor-ide)
-- [GANs Explained](https://gssakash.hashnode.dev/generative-adversarial-networks-gans-explained)
-- [Voronoi Diagrams in a 2D and 3D Space](https://gssakash.hashnode.dev/voronoi-diagrams-in-a-2d-and-3d-space)
-  **And More!!**
+- Mixed Blogs : [HashNode](https://gssakash.hashnode.dev/)
+- Swarm Intelligence Series [ML] related : [Swarm Intelligence](https://gssakash.hashnode.dev/series/swarm-algorithms)
+
+- LLM [AI/ML] and related Blogs : [Dev.to](https://dev.to/gssakash)
+- Blogs related to Crypto : [HackerNoon](https://hackernoon.com/u/gssakash)
 
 <div align="center">
 
