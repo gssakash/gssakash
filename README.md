@@ -33,6 +33,7 @@ My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and u
 
 - LLM [AI/ML] and related Blogs : [Dev.to](https://dev.to/gssakash)
 - Blogs related to Crypto : [HackerNoon](https://hackernoon.com/u/gssakash)
+[BulbApp](https://www.bulbapp.io/u/G1GBj1pt8JeZesxFMdNAi7fbz816yxKmmUuyuKwnqY39/akash-gss)
 
 <div align="center">
 
