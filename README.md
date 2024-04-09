@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello there <img src="https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea_w200.webp" width="75px" > I'm GSS Akash
+## Hi, I'm GSS Akash
 
 [![Linkedin Badge](https://img.shields.io/badge/-gssakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gssakash/)](https://www.linkedin.com/in/gssakash/) [![Gmail Badge](https://img.shields.io/badge/-gssakash@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gssakash@gmail.com)](mailto:gssakash@gmail.com)
 
