@@ -8,9 +8,9 @@
 
 <div align="left">
 
-I am a software engineer with expertise in SQL, Python, Flask and Node.js. 
+I am a software engineer with experience in Flask, FastAPI, Generative AI, and Python.
 
-My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and using vector databases like Chroma DB to augment and improve their responses along with a lot of prompt engineering for platform specific requirements with the help of Flask Python.
+My current role involves working with LLM APIs like GPT 4 API and ChatGPT and using vector databases like Chroma DB to augment and improve their responses along with a lot of prompt engineering efforts for platform-specific requirements with the help of Python, Flask and FastAPI.
 
 </div>
 
@@ -18,15 +18,15 @@ My current role involves working with LLM APIs like GPT 4 API and ChatGPT, and u
 
 ## Skills
 
-**Languages:** JavaScript (ES6+), TypeScript, Python, C++
+**Languages:** Python
 
-**Frontend:** React, Redux, HTML/CSS, Bootstrap  
+**Backend:** Flask, FastAPI, ChromaDB (Vector Search DB), Generative AI systems like GPT, Claude and more.
 
-**Backend:** Node.js, Express, MongoDB, PostgreSQL, ChromaDB (Vector Search DB)
+**Databases: ** MongoDB, [ChromaDB](trychroma.com) vector search database, SQL databases
 
-**Tools:** OpenAI (Chat-GPT), Git, Visual Studio Code
+**Tools:** OpenAI (Chat-GPT), Claude, Git, Visual Studio Code
 
-## Articles  
+## Articles I've written in my spare time
 
 - Mixed Blogs : [HashNode](https://gssakash.hashnode.dev/)
 - Swarm Intelligence Series [ML] related : [Swarm Intelligence](https://gssakash.hashnode.dev/series/swarm-algorithms)
