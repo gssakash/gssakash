@@ -10,7 +10,7 @@
 
 I am a software engineer with experience in Flask, FastAPI, Generative AI, and Python.
 
-My current role involves working with LLM APIs like GPT 4 API and ChatGPT and using vector databases like Chroma DB to augment and improve their responses along with a lot of prompt engineering efforts for platform-specific requirements with the help of Python, Flask and FastAPI.
+My current role involves working with LLM APIs like GPT 4 API and ChatGPT and using vector databases like Chroma DB to augment and improve their responses along with a lot of prompt engineering efforts for platform-specific requirements with the help of Python, Flask, and FastAPI.
 
 </div>
 
@@ -22,7 +22,7 @@ My current role involves working with LLM APIs like GPT 4 API and ChatGPT and us
 
 **Backend:** Flask, FastAPI, ChromaDB (Vector Search DB), Generative AI systems like GPT, Claude and more.
 
-**Databases: ** MongoDB, [ChromaDB](trychroma.com) vector search database, SQL databases
+**Databases:** MongoDB, [ChromaDB](trychroma.com) vector search database, SQL databases
 
 **Tools:** OpenAI (Chat-GPT), Claude, Git, Visual Studio Code
 
