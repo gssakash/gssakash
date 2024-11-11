@@ -36,7 +36,7 @@ I'm a dedicated software engineer with a passion for **Flask**, **FastAPI**, and
 
 I'm passionate about sharing my insights on AI and software development and have written over 60 articles with more in the making! 
 
-Here are some of my recent series and articles:
+You can find all of my articles below :
 
 - **Mixed Topics:** [HashNode](https://gssakash.hashnode.dev/)
 - **Swarm Intelligence Series [ML]:** [Swarm Intelligence](https://gssakash.hashnode.dev/series/swarm-algorithms)
