@@ -34,7 +34,7 @@ I'm a dedicated software engineer with a passion for **Flask**, **FastAPI**, and
 
 ## 📚 Featured Articles & Blogs
 
-I'm passionate about sharing my insights on AI and software development and have written over 60 articles with more in the making! 
+I'm passionate about sharing my insights on AI, Web3 and Software Development and have written over 60 articles with more in the making! 
 
 You can find all of my articles below :
 
