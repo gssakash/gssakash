@@ -43,7 +43,7 @@ You can find all of my articles below :
 - **AI & LLM Blogs:** [Dev.to](https://dev.to/gssakash)
 - **Crypto Insights:**
   - [HackerNoon](https://hackernoon.com/u/gssakash)
-  - [Mirror.xyz](https://mirror.xyz/0x14dC79964da2C08b23698B3D3cc7Ca32193d9955)
+  - [Paragraph](https://paragraph.com/@akash-gss)
 
 ---
 
